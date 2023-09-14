@@ -1,29 +1,33 @@
 <p align="center">
-  <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
+  <img alt="Team Torrent" src="https://cryptologos.cc/logos/bittorrent-bttold-logo.png" />
 </p>
 <h1 align="center">
-  Group 25 - CISC 322 Website
+  Team Torrent - CISC 322 Website
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Emilia is released under the 0BSD license." />
+  <a href="https://aselstyne.com">
+    <img alt="Alex Aselstyne" src="https://img.shields.io/badge/-Alex_Aselstyne-blue">
   </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
+  <a href="https://github.com/boooleann">
+    <img alt="Jake Nagel" src="https://img.shields.io/badge/-Jake_Nagel-blue">
   </a>
-  <a href="https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+  <a href="https://github.com/PudofkinMini">
+    <img alt="Ryan Pleava" src="https://img.shields.io/badge/-Ryan_Pleava-blue">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  <a href="https://dinari.ca/">
+    <img alt="Daniel Dinari" src="https://img.shields.io/badge/-Daniel_Dinari-blue">
+  </a>
+  <a href="https://www.linkedin.com/in/jack-peterson-b106a1266/">
+    <img alt="Jack Peterson" src="https://img.shields.io/badge/-Jack_Peterson-blue">
   </a>
 </p>
-The template used for this site was created by @lekoarts, who left the following message:
 
+Group project site for CISC 322 - Software Architecture. The site serves as a portfolio for the work we complete throughout the term. Click the links above to see the pages of each member of our group.
 
+<h1></h1>
+The template used for this site was created by ['@lekoarts']:
+<br/><br/>
 Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emilia`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emilia).
 
 [**Demo Website**](https://emilia.lekoarts.de)
