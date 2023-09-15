@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Team Torrent" src="https://cryptologos.cc/logos/bittorrent-bttold-logo.png" />
+  <img alt="Team Torrent" src="https://cryptologos.cc/logos/bittorrent-bttold-logo.png" width="300" height= "300" />
 </p>
 <h1 align="center">
   Team Torrent - CISC 322 Website
