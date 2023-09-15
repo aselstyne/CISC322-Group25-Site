@@ -26,9 +26,9 @@
 Group project site for CISC 322 - Software Architecture. The site serves as a portfolio for the work we complete throughout the term. Click the links above to see the pages of each member of our group.
 
 <h1></h1>
-The template used for this site was created by ['@lekoarts']:
+The template used for this site was created by lekoarts:
 <br/><br/>
-Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emilia`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emilia).
+Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme [@lekoarts/gatsby-theme-emilia](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emilia).
 
 [**Demo Website**](https://emilia.lekoarts.de)
 
